@@ -7,5 +7,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut daftar Volunter yang diterima:
 
-* Iqbal Febren Haryanto, [LinkedIn](hhttps://www.linkedin.com/in/iqbal-febren-537728221/).
-
+* Iqbal Febren Haryanto, [LinkedIn](https://www.linkedin.com/in/iqbal-febren-537728221/).
